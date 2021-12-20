@@ -1,0 +1,23 @@
+INDEX VERSION 1.131+C:\Users\lybue\Documents\ADS\DevSuperior\ws-bootcamp-projetos\cap01\.metadata\.plugins\org.eclipse.jdt.core
+13516933.index
+3735842896.index
+3540500630.index
+1734142016.index
+2596339347.index
+866072416.index
+91958855.index
+738501401.index
+39474586.index
+3389178747.index
+1341078169.index
+1311488732.index
+2204732069.index
+4180724635.index
+2433754603.index
+2500459453.index
+3062627305.index
+864101775.index
+2053369267.index
+3069896124.index
+2894506043.index
+3126575459.index
