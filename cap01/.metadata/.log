@@ -672,3 +672,37 @@ java.lang.NullPointerException: Cannot invoke "org.eclipse.ui.texteditor.ITextEd
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-20 22:45:14.725
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.fhAoobWn
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-20 22:45:14.726
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.fhAoobWn
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-20 22:45:14.726
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-20 22:45:14.727
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.fhAoobWn => OK
+
+!ENTRY org.eclipse.m2e.core 4 -1 2021-12-20 22:45:15.569
+!MESSAGE Could not lookup required component
+!STACK 0
+org.codehaus.plexus.component.repository.exception.ComponentLookupException: java.util.NoSuchElementException
+      role: org.apache.maven.execution.MavenExecutionRequestPopulator
+  roleHint: 
+	at org.codehaus.plexus.DefaultPlexusContainer.lookup(DefaultPlexusContainer.java:267)
+	at org.codehaus.plexus.DefaultPlexusContainer.lookup(DefaultPlexusContainer.java:255)
+	at org.codehaus.plexus.DefaultPlexusContainer.lookup(DefaultPlexusContainer.java:249)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lookup(MavenImpl.java:1292)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.createExecutionRequest(MavenImpl.java:238)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.newExecutionRequest(MavenExecutionContext.java:94)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:127)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.util.NoSuchElementException
+	at java.base/java.util.Collections$EmptyIterator.next(Collections.java:4277)
+	at org.codehaus.plexus.DefaultPlexusContainer.lookup(DefaultPlexusContainer.java:263)
+	... 10 more
