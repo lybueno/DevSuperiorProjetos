@@ -5,4 +5,3 @@
 - Capítulo 02 - Testes automatizados; :heavy_check_mark:
 - Capítulo 03 - Validação e Segurança; :mailbox_with_mail:
 - Capítulo 04 - Domínio e ORM, autorizações :construction:
-- Capítulo 03 - Validação e Segurança; :construction:
