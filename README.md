@@ -8,4 +8,3 @@
 - Capítulo 04 - Domínio e ORM, autorizações :construction:
 =======
 - Capítulo 03 - Validação e Segurança; :construction:
->>>>>>> f7ffc2a5dce2513c2d51f65f0d7f97af727b0011
