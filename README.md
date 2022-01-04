@@ -3,5 +3,5 @@
 ### Exercícios entregues: 
 - Capítulo 01 - CRUD; :heavy_check_mark:
 - Capítulo 02 - Testes automatizados; :heavy_check_mark:
-- Capítulo 03 - Validação e Segurança; :mailbox_with_mail:
+- Capítulo 03 - Validação e Segurança; :heavy_check_mark:
 - Capítulo 04 - Domínio e ORM, autorizações :construction:
