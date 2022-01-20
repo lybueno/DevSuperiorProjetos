@@ -5,5 +5,5 @@
 - Capítulo 02 - Testes automatizados; :heavy_check_mark:
 - Capítulo 03 - Validação e Segurança; :heavy_check_mark:
 - Capítulo 04 - Domínio e ORM, autorizações :heavy_check_mark: 
-- Capítulo 05: Consultas ao banco de dados :mailbox_with_mail:
+- Capítulo 05: Consultas ao banco de dados :heavy_check_mark:
 - Capítulo 06: Docker, implantação, CI/CD :construction:
