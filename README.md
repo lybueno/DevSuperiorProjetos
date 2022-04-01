@@ -6,4 +6,10 @@
 - Capítulo 03 - Validação e Segurança; :heavy_check_mark:
 - Capítulo 04 - Domínio e ORM, autorizações :heavy_check_mark: 
 - Capítulo 05: Consultas ao banco de dados :heavy_check_mark:
-- Capítulo 06: Docker, implantação, CI/CD :construction:
+- Capítulo 06: Docker, implantação, CI/CD :heavy_check_mark:
+- Capítulo 07: Layout e navegação :construction:
+- Capítulo 08: Integração com API
+- Capítulo 09: Autenticação e autorização
+- Capítulo 10: CRUD, paginação, filtros
+- Capítulo 11: Testes e implantação
+- CApítulo 12: Dashboard
