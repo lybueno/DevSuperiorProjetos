@@ -1,0 +1,39 @@
+
+.search-container {
+    background-color: #EDEDED;
+    height: 95px;
+    padding: 30px 30px;
+    margin: 20px 20px;
+    border-radius: 10px;
+}
+
+.search-container-content input {
+    width: 85%;
+    height: 40px;
+    border-radius: 10px 0px 0px 10px;
+    border: none;
+    padding-left: 20px;
+    font-size: 14px;
+    color: #A7A7A7;
+}
+
+.search-container-content button {
+    color: #FFF;
+    background-color: #00285F;
+    height: 40px;
+    width: 15%;
+    border-radius: 0px 10px 10px 0px;
+    border: none;
+    font-size: 0.5em;
+}
+
+@media (min-width: 500px){
+
+    .search-container-content input{
+        width: 75%;
+    }
+
+    .search-container-content button{
+        width: 25%;
+    }
+}

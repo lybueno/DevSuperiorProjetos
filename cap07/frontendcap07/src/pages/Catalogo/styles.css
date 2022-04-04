@@ -1,0 +1,15 @@
+.catalogo {
+    background-color: #FFF;
+    width: 100%;
+}
+
+.container {
+    justify-content: space-around;
+    padding: calc(((85vh - 480px)/2) - 0px) 0;
+}
+
+@media (max-width: 567px){
+    .container{
+        width: 300px;
+    }
+}
