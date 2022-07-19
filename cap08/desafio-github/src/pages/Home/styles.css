@@ -1,0 +1,136 @@
+.home-container {
+    padding: 10px;
+    font-size: 20px;
+}
+
+.home-card {
+    background-color: #FFF;
+    border-radius: 20px;
+    margin-bottom: 5px;
+    height: 380px;
+}
+
+.home-content-container {
+    padding: auto;
+}
+
+.home-content-container h1 {
+    font-size: 1.1em;
+    width: 260px;
+    color: #000
+}
+
+.home-content-container p {
+    color: #7E7E7E;
+    font-weight: bold;
+    font-size: 0.5em;
+    width: 260px;
+}
+
+.home-button-container {
+    background-color: #1890FF;
+    height: 130px;
+    padding: 5px 5px;
+    border-radius: 20px;
+}
+
+.btn{
+    background-color: #1890FF;
+    padding: 5px 5px;
+    font-size: 0.6em;
+}
+
+@media (min-width: 567px){
+
+    .home-container {
+        padding: 15px;
+        font-size: 40px;
+    }
+
+    .home-card{
+        height: 520px;
+        padding: 20px;
+    }
+
+    .home-content-container {
+        padding: 10px;
+    }
+
+    .home-content-container h1 {
+        width: 500px;
+        margin-bottom: 0px;
+        margin-top: 5px;
+        font-size: 1em;
+    }
+
+    .home-content-container p {
+        width: 500px;
+        margin-bottom: 10px;
+        font-size: 0.5em;
+    }
+
+    .btn {
+        width: 200px;
+    }
+}
+
+@media (min-width: 768px){
+
+    .home-card{
+        height: 580px;
+    }
+}
+
+@media (min-width: 992px){
+
+    .home-container {
+        font-size: 55px;
+    }
+
+    .home-card {
+        height: 680px;
+    }
+
+    .home-content-container h1 {
+        width: 750px;
+    }
+
+    .home-content-container p {
+        width: 705px;
+    }
+
+}
+
+@media (min-width: 1200px){
+
+    .home-card {
+        height: 450px;
+    }
+
+    .home-content-container {
+        height: 480px;
+        width: 480px;
+    }
+
+    .home-content-container h1 {
+        margin-bottom: 0px;
+        width: 480px;
+        font-size: 40px;
+    }
+
+    .home-content-container p {
+        font-size: 20px;
+        width: 450px;
+    }
+
+    .home-button-container p{
+        font-size: 0.5em;
+    }
+
+}
+
+@media (min-width: 1400px){
+    .btn{
+        font-size: 20px;
+    }
+}

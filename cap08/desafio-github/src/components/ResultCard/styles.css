@@ -1,0 +1,11 @@
+.result-title {
+    color: #545454;
+    font-size: 1.2rem;
+    padding-right: 5px;
+}
+
+.result-description {
+    color: #7e7e7e;
+    font-size: 1rem;
+    padding-top: 0.9px;
+}
