@@ -75,6 +75,10 @@ const SearchCard = () => {
                 </div>
             </>
             }
+            {!user?.name && 
+            <>
+              <h2>Usuário não encontrado.</h2>
+            </>}
           </div>
         </div>
     );

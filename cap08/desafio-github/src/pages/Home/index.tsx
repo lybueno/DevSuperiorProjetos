@@ -12,7 +12,7 @@ const Home = () => {
             <p>
               Bootcamp Spring React - DevSuperior
             </p>            
-            <Link to="search" className='btn col-md-2'>Começar</Link>
+            <Link to="search"><button className='btn btn-primary btn-lg start-button'>Começar</button></Link>
           </div>
         </div>
       </div>
