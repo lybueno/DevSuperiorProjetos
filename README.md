@@ -8,8 +8,8 @@
 - Capítulo 05: Consultas ao banco de dados :heavy_check_mark:
 - Capítulo 06: Docker, implantação, CI/CD :heavy_check_mark:
 - Capítulo 07: Layout e navegação :heavy_check_mark:
-- Capítulo 08: Integração com API :construction:
-- Capítulo 09: Autenticação e autorização
+- Capítulo 08: Integração com API :heavy_check_mark:
+- Capítulo 09: Autenticação e autorização :construction:
 - Capítulo 10: CRUD, paginação, filtros
 - Capítulo 11: Testes e implantação
 - CApítulo 12: Dashboard
